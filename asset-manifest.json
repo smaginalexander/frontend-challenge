@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/frontend-challenge/static/css/main.8eda9632.chunk.css",
-    "main.js": "/frontend-challenge/static/js/main.57cfc2ee.chunk.js",
-    "main.js.map": "/frontend-challenge/static/js/main.57cfc2ee.chunk.js.map",
-    "runtime-main.js": "/frontend-challenge/static/js/runtime-main.b5b64241.js",
-    "runtime-main.js.map": "/frontend-challenge/static/js/runtime-main.b5b64241.js.map",
-    "static/js/2.1cec1a4a.chunk.js": "/frontend-challenge/static/js/2.1cec1a4a.chunk.js",
-    "static/js/2.1cec1a4a.chunk.js.map": "/frontend-challenge/static/js/2.1cec1a4a.chunk.js.map",
-    "static/js/3.bebb8c19.chunk.js": "/frontend-challenge/static/js/3.bebb8c19.chunk.js",
-    "static/js/3.bebb8c19.chunk.js.map": "/frontend-challenge/static/js/3.bebb8c19.chunk.js.map",
-    "index.html": "/frontend-challenge/index.html",
-    "static/css/main.8eda9632.chunk.css.map": "/frontend-challenge/static/css/main.8eda9632.chunk.css.map",
-    "static/js/2.1cec1a4a.chunk.js.LICENSE.txt": "/frontend-challenge/static/js/2.1cec1a4a.chunk.js.LICENSE.txt",
-    "static/media/Card.css": "/frontend-challenge/static/media/unlike.6adfe85f.svg"
+    "main.css": "/happy-job-test/static/css/main.d3870814.chunk.css",
+    "main.js": "/happy-job-test/static/js/main.57cfc2ee.chunk.js",
+    "main.js.map": "/happy-job-test/static/js/main.57cfc2ee.chunk.js.map",
+    "runtime-main.js": "/happy-job-test/static/js/runtime-main.5e079b3e.js",
+    "runtime-main.js.map": "/happy-job-test/static/js/runtime-main.5e079b3e.js.map",
+    "static/js/2.1cec1a4a.chunk.js": "/happy-job-test/static/js/2.1cec1a4a.chunk.js",
+    "static/js/2.1cec1a4a.chunk.js.map": "/happy-job-test/static/js/2.1cec1a4a.chunk.js.map",
+    "static/js/3.bebb8c19.chunk.js": "/happy-job-test/static/js/3.bebb8c19.chunk.js",
+    "static/js/3.bebb8c19.chunk.js.map": "/happy-job-test/static/js/3.bebb8c19.chunk.js.map",
+    "index.html": "/happy-job-test/index.html",
+    "static/css/main.d3870814.chunk.css.map": "/happy-job-test/static/css/main.d3870814.chunk.css.map",
+    "static/js/2.1cec1a4a.chunk.js.LICENSE.txt": "/happy-job-test/static/js/2.1cec1a4a.chunk.js.LICENSE.txt",
+    "static/media/Card.css": "/happy-job-test/static/media/unlike.6adfe85f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5b64241.js",
+    "static/js/runtime-main.5e079b3e.js",
     "static/js/2.1cec1a4a.chunk.js",
-    "static/css/main.8eda9632.chunk.css",
+    "static/css/main.d3870814.chunk.css",
     "static/js/main.57cfc2ee.chunk.js"
   ]
 }
